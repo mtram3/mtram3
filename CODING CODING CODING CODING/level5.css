@@ -1,0 +1,48 @@
+.pickle{
+    font-size: 200px;
+    font-family: sans-serif;
+    position: absolute;
+    top:7000px;
+    right:259px;
+    color:darkorange;
+}
+
+.pickle1{
+    font-size: 200px;
+    font-family: sans-serif; 
+    position: absolute;
+    top:7142px;
+    left:825px;
+    color:darkorange;
+}
+.pickle2{
+    font-size: 200px;
+    font-family: sans-serif; 
+    position: absolute;
+    top:7172px;
+    left:418px;
+    color: darkorange;
+}
+
+.pickle3{
+    font-size: 200px;
+    font-family: sans-serif; 
+    position: absolute;
+    top:7154px;
+    left:1000px;
+    color:darkorange;
+}
+
+.back{
+
+   
+    font-size: 200px;
+    font-family: sans-serif; 
+    position: absolute;
+    top:200px;
+    left:0px;
+    color:cornflowerblue; 
+    
+}
+
+

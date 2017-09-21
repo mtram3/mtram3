@@ -1,0 +1,41 @@
+.y{
+ 
+font-family: sans-serif;
+font-size: 50px;
+position: absolute;
+left:50px;
+top:600px;
+    
+}
+
+.w{
+font-family: sans-serif;
+font-size: 50px;
+position: fixed;
+left:480px;
+top:100px;
+font-weight: bolder;
+color: purple;
+    
+}
+
+.x{
+font-family: sans-serif;
+font-size: 50px;
+position: fixed;
+left:1050px;
+top:100px;
+font-weight: bolder;
+color: cornflowerblue;
+    
+}
+
+.t{
+ 
+font-family: sans-serif;
+font-size: 50px;
+position: absolute;
+left:1030px;
+top:603px;
+    
+}

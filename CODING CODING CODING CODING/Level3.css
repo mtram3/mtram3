@@ -1,0 +1,25 @@
+
+
+.test {
+    position: fixed;
+    left: 905px;
+    bottom: 420px;
+}
+
+.test-two {
+    position: fixed;
+    right: 630px;
+    bottom: 380px;
+}
+
+.test-three{
+    position:absolute;
+    Left: 625px;
+    top:2194px; 
+
+}
+.test-five{
+  position:absolute;
+    Left: 765px;
+    top:2153px; 
+}

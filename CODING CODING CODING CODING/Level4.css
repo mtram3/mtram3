@@ -1,0 +1,18 @@
+.test{
+    font-size: 15px;    
+    font-family: sans-serif
+}
+.test1{
+    font-size: 670px;
+    font-family: cursive;
+    position: absolute;
+    top:-125px;
+}
+
+.test2{
+    font-size: 80px;
+    position:absolute;
+    bottom:-100px;
+    left:4550px;
+    font-family: sans-serif;
+}

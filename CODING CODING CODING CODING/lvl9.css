@@ -1,0 +1,83 @@
+.small{
+    font-size: 11px;
+    color: black;
+    
+}
+
+.smalll{
+    font-size: 11px;
+    color: black;
+    
+}
+
+.sufferr{
+    font-size: 11px;
+    color: crimson;
+    position: absolute;
+    top: 1210px;
+    
+    
+}
+
+.sufferrr{
+    font-size: 14px;
+    color: firebrick;
+    position: absolute;
+    top: 1010px;
+    
+}
+
+.sufferrrr{
+    font-size: 18px;
+    color: darkred;
+    position: absolute;
+    top: 800px;
+    
+}
+
+.sufferrrrr{
+    font-size: 21px;
+    color: red;
+    position: absolute;
+    top: 970px;
+    
+}
+
+.a{
+    
+    position:absolute;
+    color: black;
+    font-size: 80px;
+    top;400px;
+    left:200px;
+}
+
+.b{
+    
+    position:absolute;
+    color: red;
+    font-size: 80px;
+    top;400px;
+    left:200px;
+    font-family: sans-serif;
+}
+
+.c{
+    
+    position:absolute;
+    color: black;
+    font-size: 80px;
+    top;400px;
+    left:50px;
+    
+}
+
+.d{
+    
+    position:absolute;
+    color: black;
+    font-size: 80px;
+    top;700px;
+    left:200px;
+    font-family: sans-serif;
+}

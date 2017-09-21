@@ -1,0 +1,22 @@
+.te{
+    
+    position: fixed;
+    top:380px;
+    left:650px;
+    font-size: 10px;
+    color:black;
+   
+    
+    
+}
+
+.w1{
+    
+    position:absolute;
+    font-size: 600px;
+    font-style: oblique;
+    font-weight: bolder;
+     color:crimson;
+    
+    
+}

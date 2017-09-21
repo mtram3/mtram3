@@ -1,0 +1,28 @@
+.box{
+    position: absolute;
+    top:70px;
+    color:pink;
+    font-size:300px; 
+    
+}
+
+.pos{
+    position: absolute;
+    top:50px;
+    
+}
+
+.blue{
+    position: fixed;
+    top:200px;
+    color:skyblue;
+    font-size:390px; 
+}
+
+.dream{
+    position: absolute;
+    top:100px;
+    left: 10000px;
+    color:deepskyblue;
+    font-size:100px; 
+}
